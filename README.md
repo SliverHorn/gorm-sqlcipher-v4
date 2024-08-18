@@ -1,5 +1,5 @@
-# gorm-sqlcipher
-
+# gorm-sqlcipher-v4
+The existing gorm-sqlcipher modules I tried all threw the same errors when using gorm v1.25.11. I cloned one of the repos, patched the bugs, and created a new working module. Enjoy.
 
 ## Installation
 
